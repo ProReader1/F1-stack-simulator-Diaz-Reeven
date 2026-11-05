@@ -24,7 +24,10 @@ body{
     justify-content: flex-end;
     flex-direction: column;
  }
-.bg-7B8FA1{
+  .peek{
+     background-color: gold;
+  }
+ .bg-7B8FA1{
     background-color: #7B8FA1;
 }   
 .bg-9C254D{
